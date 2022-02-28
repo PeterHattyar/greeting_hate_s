@@ -16,4 +16,5 @@ end
 #
 # name.chr == "S" ? (puts name.upcase() + "!!!!") : (puts "Hello " + name + ", hope you're doing well.")
 #
-#
+# Further refactoring using string interpolation
+# puts ("Hello #{name}, hope you're doing well.")
